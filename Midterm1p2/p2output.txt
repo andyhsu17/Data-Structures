@@ -1,0 +1,7 @@
+Andys-MacBook-Pro:Midterm1p2 andyhsu$ ./p2
+-3 9 2 -4
+
+9 2
+7 6 5
+
+7 6 5
